@@ -61,5 +61,5 @@ DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-SUFFIX,login.app.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
 #DOMAIN-SUFFIX,spclient.wg.spotify.com
-#DOMAIN-SUFFIX,2ip.ru
+DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,check.gibdd.ru
