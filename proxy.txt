@@ -54,7 +54,10 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,accounts.spotify.com
+DOMAIN-SUFFIX,login.app.spotify.com
+DOMAIN-SUFFIX,apresolve.spotify.com
+#DOMAIN-SUFFIX,spclient.wg.spotify.com
