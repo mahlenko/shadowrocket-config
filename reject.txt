@@ -1,3 +1,8 @@
+# NAME: Reject
+# AUTHOR: Misha Tugushev, Sergey Makhlenko
+# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
+# REPO: https://github.com/mahlenko/shadowrocket-config
+# UPDATED: 2024-07-10 11:21:50
 DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
