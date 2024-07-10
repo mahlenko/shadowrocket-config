@@ -64,3 +64,5 @@ DOMAIN-SUFFIX,apresolve.spotify.com
 DOMAIN-SUFFIX,2ip.ru
 # Ledger Tron Staking
 DOMAIN-SUFFIX,stakek.it
+# Trello
+DOMAIN-SUFFIX,trello.com
