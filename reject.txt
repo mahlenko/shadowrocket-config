@@ -50,7 +50,6 @@ DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,vclick
-DOMAIN-SUFFIX,adlook.me
 DOMAIN-SUFFIX,24h-ad.24hstatic.com
 DOMAIN-SUFFIX,24h-ipad-ad.24hstatic.com
 DOMAIN-SUFFIX,aanetwork.vn
@@ -10913,3 +10912,7 @@ DOMAIN-SUFFIX,zygomasbeaches.guru
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzelicawwofl.com
 DOMAIN-SUFFIX,ads-sdk.mattel163.com
+DOMAIN-SUFFIX,otclick-adv.ru
+DOMAIN-SUFFIX,instreamvideo.ru
+DOMAIN-SUFFIX,adlook.me
+DOMAIN-SUFFIX,sape.ru
