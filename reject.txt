@@ -10917,3 +10917,4 @@ DOMAIN-SUFFIX,instreamvideo.ru
 DOMAIN-SUFFIX,adlook.me
 DOMAIN-SUFFIX,sape.ru
 DOMAIN-SUFFIX,videoroll.net
+DOMAIN-SUFFIX,latrsberryrs.com
