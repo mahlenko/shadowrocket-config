@@ -1,7 +1,7 @@
 # NAME: Reject
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-config
-# UPDATED: 2024-07-10 11:21:50
+# UPDATED: 2024-07-17 16:23:50
 DOMAIN-KEYWORD,adjust
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
