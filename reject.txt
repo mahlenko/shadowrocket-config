@@ -50,6 +50,7 @@ DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,vclick
+DOMAIN-SUFFIX,adlook.me
 DOMAIN-SUFFIX,24h-ad.24hstatic.com
 DOMAIN-SUFFIX,24h-ipad-ad.24hstatic.com
 DOMAIN-SUFFIX,aanetwork.vn
