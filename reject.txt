@@ -10916,3 +10916,4 @@ DOMAIN-SUFFIX,otclick-adv.ru
 DOMAIN-SUFFIX,instreamvideo.ru
 DOMAIN-SUFFIX,adlook.me
 DOMAIN-SUFFIX,sape.ru
+DOMAIN-SUFFIX,videoroll.net
