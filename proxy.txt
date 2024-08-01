@@ -66,3 +66,4 @@ DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,stakek.it
 # Trello
 DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,youtube.com
