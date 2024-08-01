@@ -67,3 +67,4 @@ DOMAIN-SUFFIX,stakek.it
 # Trello
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
