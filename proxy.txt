@@ -72,3 +72,4 @@ DOMAIN-SUFFIX,i.ytimg.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,play.google.com
