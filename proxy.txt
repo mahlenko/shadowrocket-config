@@ -69,4 +69,4 @@ DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,i.ytimg.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
