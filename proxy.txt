@@ -74,3 +74,6 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleusercontent.com
+
+# JetBrains
+DOMAIN-SUFFIX,jetbrains.com
