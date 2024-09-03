@@ -56,12 +56,15 @@ DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
+# OKX
 DOMAIN-SUFFIX,okx.com
+# Spotify
 DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-SUFFIX,login.app.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
-#DOMAIN-SUFFIX,spclient.wg.spotify.com
+# 2 IP
 DOMAIN-SUFFIX,2ip.ru
+DOMAIN-SUFFIX,2ip.io
 # Ledger Tron Staking
 DOMAIN-SUFFIX,stakek.it
 # Trello
