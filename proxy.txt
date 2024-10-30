@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 # JetBrains
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,grazie.ai
 # ChatGPT
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatgpt.com
