@@ -89,3 +89,5 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
+# Zerkalo
+DOMAIN-SUFFIX,zerkalo.io
