@@ -3,7 +3,9 @@
 ```
 https://raw.githubusercontent.com/mahlenko/shadowrocket-config/refs/heads/main/vpn.conf
 ```
-<img src="screenshot-setup.png" alt="Window config add" width="400"/>
+
+![Window config add](/screenshot-setup-dark.png#gh-dark-mode-only)
+![Window config add](/screenshot-setup.png#gh-light-mode-only)
 
 # Предотвращение утечки IP-адреса
 Переходите **Настройки** → **UDP** и включаете **Включить реле** и **Отключить STUN**. "Allow Ports" оставляем пустым. Если хотите закрыть все порты, то укажите 0. Проверяем на [Browserleaks](https://browserleaks.com/dns).
