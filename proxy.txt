@@ -64,21 +64,14 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-SUFFIX,login.app.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
-# 2 IP
+# 2IP
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.io
 # Ledger Tron Staking
 DOMAIN-SUFFIX,stakek.it
 # Trello
 DOMAIN-SUFFIX,trello.com
-# YouTube
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,i.ytimg.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,yt3.ggpht.com
-DOMAIN-SUFFIX,play.google.com
-DOMAIN-SUFFIX,googleusercontent.com
+
 # JetBrains
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,api.jetbrains.ai
