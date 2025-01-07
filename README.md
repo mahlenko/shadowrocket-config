@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/mahlenko/shadowrocket-config/refs/heads/main/v
 ```
 
 # Предотвращение утечки IP-адреса
-Переходите **Настройки** → **UDP** и включаете **Enable Relay** и **Disable STUN**. "Allow Ports" оставляем пустым. Если хотите закрыть все порты, то укажите 0. Проверяем на [Browserleaks](https://browserleaks.com/dns).
+Переходите **Настройки** → **UDP** и включаете **Включить реле** и **Отключить STUN**. "Allow Ports" оставляем пустым. Если хотите закрыть все порты, то укажите 0. Проверяем на [Browserleaks](https://browserleaks.com/dns).
 
 # Using the configuration (en)
 Go to the "Config" section, click [ + ] in the upper-right corner, and paste the link:
