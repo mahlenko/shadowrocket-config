@@ -93,3 +93,5 @@ DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,repo.packagist.org
 # Zerkalo
 DOMAIN-SUFFIX,zerkalo.io
+# Ubuntu packages
+DOMAIN-SUFFIX,packages.sury.org
