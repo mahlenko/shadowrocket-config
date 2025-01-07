@@ -71,7 +71,14 @@ DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,stakek.it
 # Trello
 DOMAIN-SUFFIX,trello.com
-
+# YouTube
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,googleusercontent.com
 # JetBrains
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,api.jetbrains.ai
