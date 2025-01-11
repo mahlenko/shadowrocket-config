@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,openai.com
