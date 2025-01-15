@@ -3,12 +3,7 @@
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
 # REPO: https://github.com/mahlenko/shadowrocket-config
 # UPDATED: 2024-07-10 11:21:50
-DOMAIN-SUFFIX,ifconfig.me
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,igcdn.com
@@ -58,9 +53,33 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
 # tiktok
-DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,byteoversea.com
+DOMAIN-KEYWORD,muscdn.com
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tik-tokapi.com
+DOMAIN-KEYWORD,tiktok.com
+DOMAIN-KEYWORD,tiktokcdn-eu.com
+DOMAIN-KEYWORD,tiktokcdn-us.com
+DOMAIN-KEYWORD,tiktokcdn.com
+DOMAIN-KEYWORD,tiktokd.net
+DOMAIN-KEYWORD,tiktokd.org
+DOMAIN-KEYWORD,tiktokv.com
+DOMAIN-KEYWORD,tiktokv.eu
+DOMAIN-KEYWORD,tiktokv.us
+DOMAIN-KEYWORD,tiktokw.eu
+DOMAIN-KEYWORD,tiktokw.us
+DOMAIN-KEYWORD,ttlivecdn.com
+DOMAIN-KEYWORD,ttwstatic.com
+DOMAIN-KEYWORD,p16-tiktokcdn-com.akamaized.net
 # OKX
-DOMAIN-SUFFIX,okx.com
+DOMAIN-KEYWORD,okex.com
+DOMAIN-KEYWORD,okx.com
+DOMAIN-KEYWORD,okx-dns.com
+DOMAIN-KEYWORD,okx-dns1.com
+DOMAIN-KEYWORD,okx-dns2.com
+
+# OKC Browser
+DOMAIN-KEYWORD,oklink.com
 # Spotify
 DOMAIN-SUFFIX,accounts.spotify.com
 DOMAIN-SUFFIX,login.app.spotify.com
