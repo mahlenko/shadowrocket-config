@@ -111,3 +111,4 @@ DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
 # NGROK
 DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,ngrok-agent.com
