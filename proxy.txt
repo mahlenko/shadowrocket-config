@@ -109,9 +109,5 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
-# Packagist
-DOMAIN-SUFFIX,repo.packagist.org
-# Zerkalo
-DOMAIN-SUFFIX,zerkalo.io
-# Ubuntu packages
-DOMAIN-SUFFIX,packages.sury.org
+# NGROK
+DOMAIN-SUFFIX,ngrok.com
