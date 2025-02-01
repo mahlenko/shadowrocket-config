@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,youtu.be
 # JetBrains
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,api.jetbrains.ai
