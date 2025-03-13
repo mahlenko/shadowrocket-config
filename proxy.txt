@@ -83,6 +83,7 @@ DOMAIN-KEYWORD,oklink.com
 # Spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
+URL-REGEX,/(spotify)/,PROXY
 # 2IP
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.io
