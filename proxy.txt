@@ -81,9 +81,8 @@ DOMAIN-KEYWORD,okx-dns2.com
 # OKC Browser
 DOMAIN-KEYWORD,oklink.com
 # Spotify
-DOMAIN-SUFFIX,accounts.spotify.com
-DOMAIN-SUFFIX,login.app.spotify.com
-DOMAIN-SUFFIX,apresolve.spotify.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
 # 2IP
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.io
