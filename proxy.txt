@@ -77,7 +77,6 @@ DOMAIN-KEYWORD,okx.com
 DOMAIN-KEYWORD,okx-dns.com
 DOMAIN-KEYWORD,okx-dns1.com
 DOMAIN-KEYWORD,okx-dns2.com
-
 # OKC Browser
 DOMAIN-KEYWORD,oklink.com
 # Spotify
@@ -113,3 +112,5 @@ DOMAIN-SUFFIX,tcr9i.chat.openai.com
 # NGROK
 DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,ngrok-agent.com
+# UPWORK
+DOMAIN-SUFFIX,upwork.com
