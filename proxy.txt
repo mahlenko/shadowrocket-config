@@ -114,3 +114,4 @@ DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,ngrok-agent.com
 # UPWORK
 DOMAIN-KEYWORD,upwork.com
+DOMAIN-KEYWORD,onetrust.com
