@@ -1066,6 +1066,8 @@ DOMAIN-SUFFIX,addtoany.com
 DOMAIN-SUFFIX,adelement.com
 DOMAIN-SUFFIX,adevents.msn.com
 DOMAIN-SUFFIX,adeventtracker.spotify.com
+DOMAIN-SUFFIX,adstudio-assets.scdn.co
+DOMAIN-SUFFIX,bloodhound.spotify.com
 DOMAIN-SUFFIX,adeventtrackermonitoring.spotify.com
 DOMAIN-SUFFIX,adexchangemachine.com
 DOMAIN-SUFFIX,adflex.asia
