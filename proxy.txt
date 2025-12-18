@@ -127,3 +127,5 @@ DOMAIN-SUFFIX,ngrok-agent.com
 # UPWORK
 DOMAIN-KEYWORD,upwork.com
 DOMAIN-KEYWORD,onetrust.com
+# Sentry
+DOMAIN-SUFFIX,sentry.io
