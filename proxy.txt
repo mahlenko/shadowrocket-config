@@ -129,3 +129,10 @@ DOMAIN-KEYWORD,upwork.com
 DOMAIN-KEYWORD,onetrust.com
 # Sentry
 DOMAIN-SUFFIX,sentry.io
+# Discord
+DOMAIN-KEYWORD,discord
+DOMAIN-SUFIX,dis.gd
+DOMAIN-SUFIX,airhorn.solutions
+DOMAIN-SUFIX,airhornbot.com
+DOMAIN-SUFIX,bigbeans.solutions
+DOMAIN-SUFIX,watchanimeattheoffice.com
