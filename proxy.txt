@@ -137,4 +137,4 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-URL-REGEX,\\.ledger\\.com$
+URL-REGEX,/(ledger.com)/
