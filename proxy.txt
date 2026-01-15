@@ -80,7 +80,7 @@ DOMAIN-KEYWORD,okx-dns2.com
 # OKC Browser
 DOMAIN-KEYWORD,oklink.com
 # Spotify
-URL-REGEX,/(spotify)/,PROXY
+URL-REGEX,/(spotify)/
 DOMAIN-KEYWORD,byspotify.com
 DOMAIN-KEYWORD,pscdn.co
 DOMAIN-KEYWORD,scdn.co
@@ -137,4 +137,4 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-URL-REGEX,/\.ledger\.com$/i
+URL-REGEX,\\.ledger\\.com$
