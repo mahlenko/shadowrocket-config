@@ -98,8 +98,6 @@ DOMAIN-KEYWORD,spotify.link
 # 2IP
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.io
-# Ledger Tron Staking
-DOMAIN-SUFFIX,stakek.it
 # Trello
 DOMAIN-SUFFIX,trello.com
 # YouTube
@@ -137,4 +135,6 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-URL-REGEX,/(ledger.com)/
+DOMAIN-SUFFIX,.ledger.com
+DOMAIN-SUFFIX,live.ledger.com
+DOMAIN-SUFFIX,coin.ledger.com
