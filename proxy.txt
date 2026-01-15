@@ -136,3 +136,5 @@ DOMAIN-SUFIX,airhorn.solutions
 DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
+# Ledger
+DOMAIN-SUFIX,live.ledger.com
