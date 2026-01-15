@@ -137,5 +137,4 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-DOMAIN-SUFIX,cloud-sync.api.live.ledger.com
-DOMAIN-SUFIX,live-app-catalog.ledger.com
+DOMAIN-SUFIX,ledger.com
