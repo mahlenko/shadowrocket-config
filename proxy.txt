@@ -137,11 +137,4 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-DOMAIN-SUFIX,ledger.com
-DOMAIN-SUFIX,earn.ledger.com
-DOMAIN-SUFIX,earn.api.live.ledger.com
-DOMAIN-SUFIX,swap.ledger.com
-DOMAIN-SUFIX,countervalues.live.ledger.com
-DOMAIN-SUFIX,crypto-assets-service.api.ledger.com
-DOMAIN-SUFIX,crypto-icons.ledger.com
-DOMAIN-SUFIX,cloud-sync.api.live.ledger.com
+URL-REGEX,/\.ledger\.com$/i
