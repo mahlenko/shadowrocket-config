@@ -137,6 +137,8 @@ DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,ledger.app
+DOMAIN-SUFFIX,api.ledger.com
 DOMAIN-SUFFIX,live.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
 DOMAIN-SUFFIX,ldg-tech.com
+DOMAIN-SUFFIX,statuspage.io
