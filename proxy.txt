@@ -135,6 +135,8 @@ DOMAIN-SUFIX,airhornbot.com
 DOMAIN-SUFIX,bigbeans.solutions
 DOMAIN-SUFIX,watchanimeattheoffice.com
 # Ledger
-DOMAIN-SUFFIX,.ledger.com
+DOMAIN-SUFFIX,ledger.com
+DOMAIN-SUFFIX,ledger.app
 DOMAIN-SUFFIX,live.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
+DOMAIN-SUFFIX,ldg-tech.com
