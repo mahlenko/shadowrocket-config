@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,tcr9i.chat.openai.com
 # NGROK
 DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,ngrok-agent.com
+DOMAIN-SUFFIX,ngrok-free.app
 # UPWORK
 DOMAIN-KEYWORD,upwork.com
 DOMAIN-KEYWORD,onetrust.com
@@ -142,3 +143,6 @@ DOMAIN-SUFFIX,live.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
 DOMAIN-SUFFIX,ldg-tech.com
 DOMAIN-SUFFIX,statuspage.io
+# DOMAIN ZONE (RU location)
+DOMAIN-SUFFIX,.com
+DOMAIN-SUFFIX,.org
