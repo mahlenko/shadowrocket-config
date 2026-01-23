@@ -143,6 +143,3 @@ DOMAIN-SUFFIX,live.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
 DOMAIN-SUFFIX,ldg-tech.com
 DOMAIN-SUFFIX,statuspage.io
-# DOMAIN ZONE (RU location)
-DOMAIN-SUFFIX,.com
-DOMAIN-SUFFIX,.org
