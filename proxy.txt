@@ -143,3 +143,5 @@ DOMAIN-SUFFIX,live.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
 DOMAIN-SUFFIX,ldg-tech.com
 DOMAIN-SUFFIX,statuspage.io
+# Wakatime
+DOMAIN-SUFFIX,wakatime.com
