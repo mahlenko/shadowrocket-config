@@ -145,5 +145,3 @@ DOMAIN-SUFFIX,ldg-tech.com
 DOMAIN-SUFFIX,statuspage.io
 # Wakatime
 DOMAIN-SUFFIX,wakatime.com
-#
-DOMAIN-SUFFIX,cloudflareinsights.com
