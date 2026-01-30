@@ -145,3 +145,5 @@ DOMAIN-SUFFIX,ldg-tech.com
 DOMAIN-SUFFIX,statuspage.io
 # Wakatime
 DOMAIN-SUFFIX,wakatime.com
+# Whatsapp
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Whatsapp/Whatsapp.list
