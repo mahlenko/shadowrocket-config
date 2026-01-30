@@ -147,3 +147,5 @@ DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,wakatime.com
 # Whatsapp
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Whatsapp/Whatsapp.list
+# test nike
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Nike/Nike.list
