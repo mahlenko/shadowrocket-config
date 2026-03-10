@@ -119,6 +119,8 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ab.chatgpt.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
 # CLAUDE AI
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
