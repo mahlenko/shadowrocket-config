@@ -161,3 +161,19 @@ IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 # TRON (TRX)
 DOMAIN-SUFFIX, api.trongrid.io
+# TELEGRAM
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
