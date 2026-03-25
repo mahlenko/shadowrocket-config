@@ -116,9 +116,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.ai
 # NGROK
-DOMAIN-SUFFIX,ngrok.com
-DOMAIN-SUFFIX,ngrok-agent.com
-DOMAIN-SUFFIX,ngrok-free.app
+DOMAIN-KEYWORD,ngrok
 # UPWORK
 DOMAIN-KEYWORD,upwork.com
 DOMAIN-KEYWORD,onetrust.com
