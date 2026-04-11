@@ -2,7 +2,6 @@
 # AUTHOR: Misha Tugushev, Sergey Makhlenko
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
 # REPO: https://github.com/mahlenko/shadowrocket-config
-# REPO: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket
 # UPDATED: 2026-04-11 22:45:00
 
 DOMAIN-SUFFIX,canva.com
