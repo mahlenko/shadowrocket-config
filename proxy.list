@@ -39,7 +39,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/hea
 # Workspace
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Atlassian/Atlassian.list
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Jetbrains/Jetbrains.list
-RULE-SET,https://raw.githubusercontent.com/mahlenko/shadowrocket-config/feat-lists/lists/ngrok.list
+RULE-SET,https://raw.githubusercontent.com/mahlenko/shadowrocket-config/refs/heads/feat-lists/lists/ngrok.list
 
 # Other
 DOMAIN-SUFFIX,canva.com
