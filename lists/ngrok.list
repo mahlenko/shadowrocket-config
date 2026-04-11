@@ -1,0 +1,17 @@
+# NAME: Ngrok
+# AUTHOR: mahlenko
+# REPO: https://github.com/mahlenko/shadowrocket-config
+# UPDATED: 2026-04-11 23:00:00
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+DOMAIN-SUFFIX,equinox.io
+DOMAIN-SUFFIX,ngrok-agent.com
+DOMAIN-SUFFIX,ngrok-free.app
+DOMAIN-SUFFIX,ngrok-free.dev
+DOMAIN-SUFFIX,ngrok-free.pizza
+DOMAIN-SUFFIX,ngrok.app
+DOMAIN-SUFFIX,ngrok.com
+DOMAIN-SUFFIX,ngrok.dev
+DOMAIN-SUFFIX,ngrok.io
+DOMAIN-SUFFIX,ngrok.pizza
+DOMAIN-SUFFIX,ngrok.pro
