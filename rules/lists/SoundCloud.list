@@ -1,0 +1,12 @@
+# NAME: SoundCloud
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/mahlenko/shadowrocket-config
+# UPDATED: 2025-06-06 09:17:00
+# DOMAIN-SUFFIX: 3
+# USER-AGENT: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,soundcloud.cloud
+USER-AGENT,SoundCloud*
