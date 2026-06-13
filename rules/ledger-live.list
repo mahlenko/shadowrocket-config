@@ -4,8 +4,9 @@
 # UPDATED: 2026-06-13 22:55
 DOMAIN-SUFFIX,api.ledger.com
 DOMAIN-SUFFIX,coin.ledger.com
-DOMAIN-SUFFIX,live.ledger.com
-DOMAIN-SUFFIX,swap.ledger.com
+DOMAIN-SUFFIX,compliance.ledger.com
 DOMAIN-SUFFIX,crypto-icons.ledger.com
 DOMAIN-SUFFIX,live-app-catalog.ledger.com
-
+DOMAIN-SUFFIX,live.ledger.com
+DOMAIN-SUFFIX,swap.ledger.com
+DOMAIN-SUFFIX,swap-live-app.ledger.com
