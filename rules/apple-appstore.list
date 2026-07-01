@@ -2,6 +2,10 @@
 # AUTHOR: Sergey Makhlenko
 # REPO: https://github.com/mahlenko/shadowrocket-config
 # UPDATED: 2026-07-02 01:10
+DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,amp-api-search-edge.apps.apple.com
+DOMAIN-SUFFIX,amp-api.apps.apple.com
 DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,fpinit.itunes.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,xp.apple.com
