@@ -4,5 +4,7 @@
 # UPDATED: 2026-08-29 22:25
 DOMAIN-SUFFIX,asos.com,PROXY
 DOMAIN-SUFFIX,asosservices.com,PROXY
+DOMAIN-SUFFIX,asos-media.com
+DOMAIN-SUFFIX,asosglobal.com,PROXY
 DOMAIN-SUFFIX,macys.com,PROXY
 DOMAIN-SUFFIX,macysassets.com,PROXY
