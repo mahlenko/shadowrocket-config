@@ -1,0 +1,11 @@
+# NAME: My Wallet
+# AUTHOR: Sergey Makhlenko
+# REPO: https://github.com/mahlenko/shadowrocket-config
+# UPDATED: 2026-09-21 13:23
+DOMAIN-SUFFIX,agent.mytonwallet.org
+DOMAIN-SUFFIX,api.mywallet.io
+DOMAIN-SUFFIX,dns-image.mytonwallet.org
+DOMAIN-SUFFIX,pulse.mytonwallet.org
+DOMAIN-SUFFIX,static.mytonwallet.org
+DOMAIN-SUFFIX,toncenter.mytonwallet.org
+DOMAIN-SUFFIX,tonconnectbridge.mytonwallet.org
